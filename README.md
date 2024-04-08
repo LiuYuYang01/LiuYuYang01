@@ -5,7 +5,7 @@ Hello
 ## 前端
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,scss,jquery,vue,nuxt,typescript,pinia" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,scss,jquery,vue,nuxt,typescript,nodejs,pinia,bootstrap" />
   </a>
 </p>
 
