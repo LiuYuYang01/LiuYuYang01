@@ -1,17 +1,34 @@
-一名Web全栈爱好者
+# 👋 我是宇阳
 
+Hello
+
+## 前端
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,scss,jquery,vue,nuxt,typescript,pinia,java,spring,docker,python" />
+  </a>
+</p>
+
+## Java
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker" />
+  </a>
+</p>
+
+## Python
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask" />
+  </a>
+</p>
+
+## 数据库
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis" />
+  </a>
+</p>
+
+# 年度汇总
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiuYuYang01)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/LiuYuYang01/Thrive_Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LiuYuYang01&repo=Thrive_Blog" />
-</a>
-
-<a href="https://github.com/LiuYuYang01/Thrive_Admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LiuYuYang01&repo=Thrive_Admin" />
-</a>
-
-<a href="https://github.com/LiuYuYang01/Thrive_Api_Py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LiuYuYang01&repo=Thrive_Api_py" />
-</a>
