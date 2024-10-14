@@ -14,12 +14,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,python,flask,mysql,redis" />
-  </a>
-</p>
-
 
 # 年度汇总
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiuYuYang01&show_icons=true)
