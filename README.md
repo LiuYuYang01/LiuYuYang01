@@ -10,17 +10,6 @@
 
 
 ## 技术栈
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,scss,jquery,vue,nuxt,typescript,nodejs,pinia,bootstrap" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,python,flask,mysql,redis" />
-  </a>
-</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
