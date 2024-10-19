@@ -1,10 +1,11 @@
 # 👋 我是 Liu YuYang
 
-🎉 梦想做一名技术顶尖的架构师，奈何学历太低
+⛰ 半山腰风景很美、然而我还是更想到山顶去看看，所以我的梦想是做一名技术顶尖的架构师，奈何学历太低 🎯
 
-如果大家觉得我写的项目还不错，碰巧你们公司缺人，欢迎内推我😁
+🌈 02年，全栈工程师，代码狂热爱好者
 
-📧 我的邮箱：liuyuyang1024@yeah.net
+🏡 个人网站：[https://liuyuyang.net](https://liuyuyang.net)
+🎉 开源作品： [Thrive-Blog](https://github.com/LiuYuYang01/Thrive-Blog)、[ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog)
 
 
 ## 技术栈
