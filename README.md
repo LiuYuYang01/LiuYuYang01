@@ -4,7 +4,7 @@
 
 🏡 个人网站：[https://liuyuyang.net](https://liuyuyang.net)
 
-🎉 开源作品：[Thrive-Blog](https://github.com/LiuYuYang01/Thrive-Blog)、[ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog)
+🎉 开源作品：[ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog)、[ThriveX-Admin](https://github.com/LiuYuYang01/ThriveX-Admin)、[ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server)
 
 💬 微信：liuyuyang2023
 
