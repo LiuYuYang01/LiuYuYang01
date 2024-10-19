@@ -6,7 +6,7 @@
 
 🎉 开源作品：[ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog)、[ThriveX-Admin](https://github.com/LiuYuYang01/ThriveX-Admin)、[ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server)
 
-💬 微信：liuyuyang2023      |      ✉️ 邮箱：liuyuyang1024@yeah.net
+💬 微信：liuyuyang2023  <span style="padding:0 10px">|</span>  ✉️ 邮箱：liuyuyang1024@yeah.net
 
 ⛰ 半山腰风景很美、然而我还是更想到山顶去看看，所以我的梦想是做一名技术顶尖的架构师，奈何学历太低 🎯
 
